@@ -58,29 +58,29 @@ spirit of the work while keeping its creative machinery in the workshop.
 
 ## Learning by transformation
 
-### `playNow` — Play, Now!
+### `play-now` — Play, Now!
 
 A screen-free activity finder that begins with the child, the season, and what is
 already within reach. It treats play as practical family culture rather than
 another reason to stare at a device.
 
-### `sciKids` — SproutLab
+### `sproutlab` — SproutLab
 
 A science-workbook studio that helps one curious thought become a testable
 investigation, a record of evidence, and a keepsake of how the learner reasoned.
 
-### `simulatedGames` — Hopscotch Math
+### `hopscotch-math` — Hopscotch Math
 
 A child-friendly mathematics game that puts explanation beside motion and makes
 the pattern—not merely the correct answer—the reward.
 
-### `tutoring` — SolveKind
+### `solvekind` — SolveKind
 
 A tutoring concept organized around the exact step where learners get stuck.
 Shared confusion becomes a signal for which careful explanation should be made
 next.
 
-### `kidComputerLiteracy`
+### `adventure-apps`
 
 An installable collection for reading, basic computer confidence, and family
 learning rituals—small digital tools designed to send children back toward capable
@@ -125,28 +125,22 @@ see and defend—not a mysterious rewrite handed down from above.
 
 ## Structure, evidence, and stewardship
 
-### `websiteBackgroundCheck` — Aequitas
+### `aequitas` — Aequitas
 
 A source-conscious website due-diligence tool that keeps observed fact, inference,
 third-party estimate, and unavailable knowledge visibly separate. Its refusal to
 manufacture certainty is the feature.
 
-### `ethicsCheck` — EthicsCheck
+### `ethics-check` — EthicsCheck
 
 A creator-facing review space for provenance, influence, licensing, privacy, and
 responsible project decisions. It helps people document better questions without
 pretending software can issue moral or legal verdicts.
 
-### `wordOrigin` — Word Origin
+### `word-origin` — Word Origin
 
 A source-first path through the documented relationship between words and larger
 ideas, built to prefer an honest gap over a beautiful but unsupported etymology.
-
-### `StudyGuidePipeline`
-
-A working pipeline for turning source material and code into structured study and
-submission artifacts while preserving traceability between the original and the
-finished explanation.
 
 ### `business-etl-normalization`
 
@@ -168,7 +162,7 @@ A two-path fallback born from a missing remote: use the network when the network
 there, and keep a small hardware escape hatch for when it is not. A practical fix
 with the larger conviction that conveniences deserve graceful failure modes.
 
-### `excel` — VoiceExcel
+### `voice-excel` — VoiceExcel
 
 A deliberately narrow voice controller for desktop spreadsheets. It previews what
 it heard, constrains what it can do, and asks for explicit confirmation before an
@@ -176,50 +170,32 @@ irreversible action.
 
 ## Conscience, context, and interpretation
 
-### `22` — Pernicious Clause
+### `pernicious-clause` — Pernicious Clause
 
 A local-first rhetorical decompression tool for translating loaded accusations
 into specific, less combustible claims, paired with a source-checking practice that
 does not confuse a confidence display with truth.
 
-### `chainOfCommand`
-
-A context-and-authority project for tracing how quoted verses, institutional
-claims, and source credibility relate—built around the idea that citation should
-have a visible chain of responsibility.
-
-### `writingCompanion`
-
-A privacy-minded writing companion conceived as an editor at the margin, not an
-authoritative voice in the writer's head. Its purpose is to sharpen expression
-without annexing ownership or intimacy.
-
-### `scandal` — Crown & Consequence
+### `crown-and-consequence` — Crown & Consequence
 
 A historical inquiry interface for examining leaders and scandal without flattening
 documented, disputed, and legendary claims into the same kind of fact.
 
 ## Faith, history, and the child's field of view
 
-### `theirEyes` — Lux Pueris
+### `lux-pueris` — Lux Pueris
 
 A child-centered story-art project that translates conflict into age-aware moral
 reflection, with a firm distinction between criticizing harmful conduct and
 demeaning human identity.
 
-### `throughHisEyes`
-
-An age-layered encounter with women in history and inherited stories, designed so
-children, teenagers, and adults can approach the same life with different depth
-without reducing it to a slogan.
-
-### `literaryClassics` — Forma & Sporá
+### `forma-et-spora` — Forma & Sporá
 
 A family reading environment whose name joins shaping with sowing: parents provide
 form, classic stories plant questions, and curiosity is allowed to grow on its own
 schedule.
 
-### `projectManagement` — Hearthloom
+### `hearthloom` — Hearthloom
 
 A privacy-first household learning and logistics system for holding lessons, meals,
 routines, and practical manners in one place without turning family life into a
@@ -273,3 +249,9 @@ Repository names identify original project work; this index does not grant acces
 to private repositories or disclose their contents.
 
 *Last updated: August 26, 2026.*
+
+---
+
+**For you, Ethan.**
+
+*Et ceteris quoque—scitis qui estis.*
