@@ -4,8 +4,8 @@
 > holy mischief meet.
 
 This is the public map—not the vault. It records the identity of a growing body
-of work created through an ongoing collaboration between **Xenovia Wonders** and
-**OpenAI Codex**, while deliberately leaving private repositories, implementation
+of work created through an ongoing human–AI collaboration, while deliberately
+leaving private repositories, implementation
 details, unpublished material, and future plans undisclosed.
 
 Some projects are public. Others are named here only so the constellation can be
@@ -135,8 +135,8 @@ solemn to leave room for a good joke.
 
 ---
 
-**Maintained by Xenovia Wonders.** This ledger will grow as new projects earn their
-place in the constellation. Repository names identify original project work; this
-index does not grant access to private repositories or disclose their contents.
+This ledger will grow as new projects earn their place in the constellation.
+Repository names identify original project work; this index does not grant access
+to private repositories or disclose their contents.
 
 *Last updated: August 26, 2026.*

@@ -1,6 +1,6 @@
 # Notice
 
-Copyright © 2026 Xenovia Wonders. All rights reserved.
+Copyright © 2026. All rights reserved.
 
 This repository is a descriptive public index. No permission is granted to copy,
 adapt, distribute, sublicense, or create derivative works from unpublished projects
