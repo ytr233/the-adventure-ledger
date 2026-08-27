@@ -11,6 +11,11 @@ details, unpublished material, and future plans undisclosed.
 Some projects are public. Others are named here only so the constellation can be
 seen without opening the workshop door.
 
+**[Take the public test drives](https://ytr233.github.io/adventure-test-drives/)** —
+fourteen deliberately limited, interactive simulations using fictional examples.
+The private implementations, research, policy machinery, and product logic remain
+closed.
+
 ## Story, memory, and moral imagination
 
 ### `the-ibis-and-the-agora`
