@@ -241,6 +241,31 @@ That is the identity of the collection: technically curious, morally alert,
 protective of the human being on the other side of the interface, and never too
 solemn to leave room for a good joke.
 
+## Mission and non-misuse covenant
+
+Every project in this collection is governed by one plain question: **What Would
+Jesus Do?**
+
+These works are intended to honor the Ten Commandments, protect children and people
+who cannot protect themselves, respect every human life as created in the image of
+God, and strengthen truthful, peaceful, and responsible action.
+
+They must never be used to exploit, expose, extort, coerce, groom, stalk, deceive,
+or prey upon another person. They must not support human trafficking, sex
+trafficking, drug trafficking, espionage against innocent people, murder, abuse,
+theft, fraud, cheating, false witness, identity misuse, unauthorized surveillance,
+the theft of personal information, or the invasion of anyone's privacy—including
+the creator's.
+
+Technology does not excuse conduct that would be wrong without it. No feature,
+business goal, research claim, or clever technical argument outranks human dignity,
+the safety of a child, the protection of the vulnerable, or a person's right to
+truth and privacy.
+
+The mission is therefore affirmative as well as protective: defend the vulnerable,
+resist exploitation, tell the truth, preserve consent, respect lawful boundaries,
+encourage mercy and accountability, and seek peace on earth.
+
 ---
 
 This ledger will grow as new projects earn their place in the constellation.
