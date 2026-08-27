@@ -26,7 +26,7 @@ actually remembered: the dinner table. It turns many voices into one shared tale
 leaves room for reflection, and guarantees at least one gloriously dependable dad
 joke.
 
-### `satura-et-dolor`
+### [`satura-et-dolor`](https://github.com/ytr233/satura-et-dolor)
 
 A growing visual lexicon of short-form comics, Latin titles, and scriptural echoes.
 The collection gives moral tensions a face without explaining away their mystery.
@@ -37,7 +37,7 @@ The private compost heap of the comic practice: superseded drafts, abandoned
 directions, and the evidence that creative judgment is built as much by refusal as
 by publication.
 
-### `per-porticus-mentis`
+### [`per-porticus-mentis`](https://github.com/ytr233/per-porticus-mentis)
 
 A reading trail through power, language, privacy, technology, freedom, education,
 and the stubborn difficulty of thinking clearly. Less a syllabus than a record of
@@ -154,7 +154,7 @@ A privacy-conscious data transformation project that turns unruly business recor
 into traceable relational structure. Its real subject is not spreadsheets; it is
 the discipline of making every transformation explainable.
 
-### `ytr233`
+### [`ytr233`](https://github.com/ytr233/ytr233)
 
 The public cybersecurity doorway: selected concepts and original work concerned
 with systems, risk, evidence, and the human consequences hidden inside technical
